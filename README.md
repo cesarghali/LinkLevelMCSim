@@ -38,21 +38,17 @@ The project requirements are kept broad in order to allow for creativity in term
     * Present complete BER curves for the best convolutional codes over AWGN channels.
     * Present complete BER curves for the best convolutional codes over wireless channels flat fading (assume low mobility).
     * Obtaining and providing results for the cases with M = 4 and M = 8 will be regarded as additional/special features.
-
 2. Repeat the previous parts for convolutional encoders with R = 1/3.
-
 3. Answer the following analysis questions based on your results and facts from the literature (books and papers):
     * Compare the performance of convolutional codes with different values of M.
     * Compare the performance of convolutional codes with/without fading in the channel.
     * Compare the performance of convolutional codes with different rates (R = 1/2 versus R = 1/3).
     * Are the best encoders over AWGN channels also the best encoders over flat fading channels? Justify your answer either intuitively or via simulations.
-
 4. For the best convolutional code with R = 1/2 and M = 3, perform necessary simulations and present complete BER curves in order to answer the following questions:
     * Compare the performance between HDD and SDD over AWGN channel.
     * Compare the performance between HDD with/without CSI and SDD with/without CSI over flat fading channel (low mobility).
     * Compare the cases with and without interleaving over flat fading channel (low mobility). Assume HDD.
     * Compare the cases with low mobility flat fading channel and high mobility flat fading channel. Assume HDD.
-
 5. The following are additional/specail features that you can add to your implementation and analysis:
     * Benchmark your results, whenever possible, against results published in the literature (books and papers). This is very important to justify the correctness of your work. Include clear referencing whenever applicable.
     * For the best convolutional code with R = 1/2 and M = 3, compare the performance with a repetition code having the same coding rate. Perform necessary simulations and present complete BER curves. Assume HDD and AWGN channel.
