@@ -74,4 +74,4 @@ Simulation Files Descriptions:
 
 References:
 -----------
-Zaher Dawy, American University of Beirut, <a href="http://staff.aub.edu.lb/~zd03/" target="_new">More</a>
+Zaher Dawy, American University of Beirut, <a href="http://staff.aub.edu.lb/~zd03/" target="_new">More</a>.
